@@ -48,3 +48,17 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
   color: #333333;
 }
+
+.comment {
+  margin: 20px 0px 20px 20px;
+  font-family: 'Reenie Beanie', cursive;
+}
+
+.comment_paragraph {
+  font-family: 'Reenie Beanie', cursive;
+}
+
+.comment_count {
+  font-family: 'Reenie Beanie', cursive;
+  color: #000000;
+}
